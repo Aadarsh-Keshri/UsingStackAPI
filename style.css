@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: lightblue;
+}
+#userName{
+    background-color: yellow;
+    color: red;
+}
+#userRep{
+    background-color: greenyellow;
+    color: red;
+}
+.dat{
+    display: flex;
+    flex-direction: column;
+    justify-content :center;
+    align-items: center;
+    text-align: center;
+    border-radius: 3px;
+}
+.dat div{
+    height: 5vh;
+    width: 7vw;
+    margin: 1%;
+}
